@@ -1,3 +1,9 @@
+"""
+*Author : Abuzar Shaikh
+*Date   : 20-08-2021
+*Time   : 4 PM
+*Title  : Text file write
+"""
 class TextFileWriter:
     @staticmethod
     def textWriter():
