@@ -1,3 +1,9 @@
+"""
+*Author : Abuzar Shaikh
+*Date   : 20-08-2021
+*Time   : 1 PM
+*Title  : CSV file write operation
+"""
 import csv
 
 # Method 1:
